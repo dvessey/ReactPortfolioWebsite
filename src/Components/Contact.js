@@ -12,7 +12,7 @@ export default function Contact() {
            Contact Me
           </h2>
           <a href="https://www.linkedin.com/in/damon-vessey/">
-            <img src="./Li-Logo.png" width="276" hieght = "67"/>
+            <img src="./LI-Logo.png" width="276" hieght = "67"/>
           </a>
         </div>
         
